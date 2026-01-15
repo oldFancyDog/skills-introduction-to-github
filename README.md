@@ -52,6 +52,7 @@ To create a pull request automatically, click **Compare & pull request**, and th
 
 8. Click **Create pull request**. You will automatically be navigated to your new pull request.
 9. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+10. 我是10，我是更新别报错了 求求了
 
 > [!NOTE]
 > You may see evidence of GitHub Actions running on the tab with the pull request opened! The image below shows a line you might see on your pull request after the Action finishes running.
